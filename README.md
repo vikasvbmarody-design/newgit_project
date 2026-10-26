@@ -1,2 +1,3 @@
 # newgit_project
-demo project
+it is demo project directory 
+checking thge fetch changes
